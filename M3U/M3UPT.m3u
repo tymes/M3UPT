@@ -1155,7 +1155,7 @@ http://centova.radio.com.pt:9462/;
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",📻Rádio Clube Penafiel
 http://centova.radios.pt:9476/;
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",JM Madeira
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",📻JM Madeira
 http://194.38.136.130:8000/?type=http
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.hiper.fm/images/hiper_logo_red.png",📻Hiper FM
@@ -1164,10 +1164,10 @@ http://85.25.73.243:10460/;stream/1
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png",📻Rádio Hertz
 http://213.136.92.8:8030/stream
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiolinear.pt/img/logo.png",Rádio Linear
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiolinear.pt/img/logo.png",📻Rádio Linear
 http://213.136.92.8:8022/;
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",📻Marcoense FM
 http://137.74.160.250:8000/;stream/1
 
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/tHi5ewx.png",📻Rádio Monsanto
@@ -1239,5 +1239,5 @@ https://stream.radiozero.pt/zero128.mp3
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",📻Venice Classic Radio - Auditorium
 https://uk2.streamingpulse.com/ssl/vcr1
 
-#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",📻Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
